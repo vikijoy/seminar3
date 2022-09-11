@@ -5,7 +5,7 @@
 В терминале выполнить команду
 
     git --version
-
+    wqewqeqwewqeqw
 
 ## 2. Установка Git
 
