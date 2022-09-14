@@ -121,7 +121,6 @@
 >    git status -h
 
 
-
 ![photo](/git_picture.png)
 
 ```
